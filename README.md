@@ -1,5 +1,7 @@
 # 🧠 BrandBrain - SOP Content Manager
 
+[![Live Demo](https://img.shields.io/badge/Live-brand--brain--one.vercel.app-success?style=for-the-badge&logo=vercel)](https://brand-brain-one.vercel.app)
+
 **AI-Powered Brand Voice Analysis & Content Generation Platform**
 
 BrandBrain is an intelligent content management system that analyzes brand voice, generates on-brand content, and manages Standard Operating Procedures (SOPs) with AI assistance.
